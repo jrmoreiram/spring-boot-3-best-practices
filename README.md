@@ -869,10 +869,10 @@ Content-Type: application/json
 
 ### Curso Base
 
-**Curso**: Spring Boot 3: aplique boas práticas e proteja uma API Rest  
-**Plataforma**: [DevMedia](https://www.devmedia.com.br)  
-**Instrutor**: Rodrigo Ferreira  
-**Escola**: [DevMedia](https://www.devmedia.com.br)
+- **Curso**: Spring Boot 3: aplique boas práticas e proteja uma API Rest  
+- **Plataforma**: [DevMedia](https://www.devmedia.com.br)  
+- **Instrutor**: Rodrigo Ferreira  
+- **Escola**: [DevMedia](https://www.devmedia.com.br)
 
 ### Documentação Oficial
 

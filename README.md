@@ -21,7 +21,7 @@
 
 A **Voll.med** é uma API REST desenvolvida com **Spring Boot 3** para gerenciamento de clínica médica fictícia. Este projeto implementa as melhores práticas de desenvolvimento com Spring Framework, focando em código limpo, arquitetura sólida e padrões modernos de desenvolvimento.
 
-Este projeto foi desenvolvido durante o **Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest** da **DevMedia**, com ênfase em:
+Este projeto foi desenvolvido durante o **Curso Spring Boot 3: aplique boas práticas e proteja uma API Rest** da **Alura**, com ênfase em:
 
 - 🏗️ **Arquitetura em Camadas** bem definida
 - 🔒 **Segurança** com JWT (JSON Web Tokens)
@@ -870,9 +870,9 @@ Content-Type: application/json
 ### Curso Base
 
 - **Curso**: Spring Boot 3: aplique boas práticas e proteja uma API Rest  
-- **Plataforma**: [DevMedia](https://www.devmedia.com.br)  
+- **Plataforma**: [Alura](https://www.alura.com.br)  
 - **Instrutor**: Rodrigo Ferreira  
-- **Escola**: [DevMedia](https://www.devmedia.com.br)
+- **Escola**: [Alura](https://www.alura.com.br)
 
 ### Documentação Oficial
 
@@ -894,13 +894,13 @@ Content-Type: application/json
 
 ## 📄 Licença
 
-Projeto desenvolvido pela [DevMedia](https://www.devmedia.com.br) para fins educacionais.
+Projeto desenvolvido pela [Alura](https://www.alura.com.br) para fins educacionais.
 
 ---
 
 ## 👨‍💻 Autor
 
-Projeto baseado no curso da **DevMedia**, Spring Boot 3: aplique boas práticas e proteja uma API Rest.
+Projeto baseado no curso da **Alura**, Spring Boot 3: aplique boas práticas e proteja uma API Rest.
 
 ---
 
@@ -940,7 +940,7 @@ Para dúvidas sobre Spring Boot:
 - [Stack Overflow - Spring Boot](https://stackoverflow.com/questions/tagged/spring-boot)
 
 Para dúvidas sobre o curso:
-- [DevMedia](https://www.devmedia.com.br)
+- [Alura](https://www.alura.com.br)
 
 ---
 
